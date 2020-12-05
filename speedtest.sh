@@ -1059,7 +1059,7 @@ bench_all(){
 	print_system_info;
 	ip_info4;
 	next;
-	geekbench4;
+	geekbench5;
 	iotest;
 	write_io;
 	print_speedtest;
