@@ -248,6 +248,7 @@ print_speedtest() {
 	speed_test '1267' 'Australia, Sydney (Optus)     ' 'http://s1.speedtest.syd.optusnet.com.au'
 	speed_test '6591' 'RSA, Randburg (Cool Ideas)    ' 'http://sp2.cisp.co.za'
 	speed_test '11488' 'Brazil, Sao Paulo (Criare)    ' 'http://ookla.spcom.net.br'
+	speed_test '13506' 'Taiwan, Taipei (TAIFO)          ' 'http://speedtest.taifo.com.tw'
 	 
 	rm -rf speedtest.py
 }
