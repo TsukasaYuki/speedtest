@@ -249,7 +249,7 @@ print_speedtest() {
 	speed_test '6591' 'RSA, Randburg (Cool Ideas)    ' 'http://sp2.cisp.co.za'
 	speed_test '11488' 'Brazil, Sao Paulo (Criare)    ' 'http://ookla.spcom.net.br'
 	speed_test '4938' 'Taiwan, Taipei (Chief)          ' 'http://tyv3-1.speedtest.idv.tw'
-	speed_test '13506' 'Taiwan, Taipei (TAIFO)          ' 'http://speedtest.taifo.com.tw'
+	speed_test '13506' 'Taiwan, Taipei (TAIFO)        ' 'http://speedtest.taifo.com.tw'
 	speed_test '2592' 'Taiwan, Taipei (FarEasTone)      ' 'http://spttn1.seed.net.tw'
 	speed_test '28912' 'Hong Kong (fdcservers)          ' 'http://lg-hkg.fdcservers.net'
 	speed_test '34555' 'Hong Kong(HKIX)                 ' 'http://speedtest1b.hkix.net'	 
