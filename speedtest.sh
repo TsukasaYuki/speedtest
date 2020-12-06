@@ -248,13 +248,13 @@ print_speedtest() {
 	speed_test '11488' 'Brazil, Sao Paulo (Criare)    ' 'http://ookla.spcom.net.br'
 	speed_test '7556' 'Singapore (FirstMedia)        ' 'http://sg-speedtest.link.net.id'
 	speed_test '7139' 'Japan, Tsukuba (SoftEther)    ' 'http://speedtest2.softether.co.jp'
-	speed_test '15047' 'Japan, Tokyo (OPEN Project)    ' 'http://speed.open.ad.jp'
+	speed_test '15047' 'Japan, Tokyo (OPEN Project)   ' 'http://speed.open.ad.jp'
 	speed_test '4938' 'Taiwan, Taipei (Chief)        ' 'http://tyv3-1.speedtest.idv.tw'
 	speed_test '13506' 'Taiwan, Taipei (TAIFO)        ' 'http://speedtest.taifo.com.tw'
-	speed_test '28912' 'China, Nanjing (China Unicom)        ' 'http://speedtest02.js165.com'
-	speed_test '24447' 'China, Shanghai (China Unicom)        ' 'http://5g.shunicomtest.com'
-	speed_test '28912' 'China, Shanghai (China Telecom)        ' 'http://speedtest1.online.sh.cn'
-	speed_test '28912' 'China, Shanghai (China Mobile)        ' 'http://speedtest4.sh.chinamobile.com'
+	speed_test '28912' 'China, Nanjing (China Unicom) ' 'http://speedtest02.js165.com'
+	speed_test '24447' 'China, Shanghai (China Unicom) ' 'http://5g.shunicomtest.com'
+	speed_test '28912' 'China, Shanghai (China Telecom) ' 'http://speedtest1.online.sh.cn'
+	speed_test '28912' 'China, Shanghai (China Mobile) ' 'http://speedtest4.sh.chinamobile.com'
 	speed_test '28912' 'Hong Kong (fdcservers)        ' 'http://lg-hkg.fdcservers.net'
 	rm -rf speedtest.py
 }
