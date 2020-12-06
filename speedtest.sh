@@ -252,7 +252,7 @@ print_speedtest() {
 	speed_test '4938' 'Taiwan, Taipei (Chief)        ' 'http://tyv3-1.speedtest.idv.tw'
 	speed_test '13506' 'Taiwan, Taipei (TAIFO)        ' 'http://speedtest.taifo.com.tw'
 	speed_test '24447' 'China, Shanghai (Unicom)      ' 'http://5g.shunicomtest.com'
-	speed_test '28912' 'China, Shanghai (Telecom)      ' 'http://speedtest1.online.sh.cn'
+	speed_test '28912' 'China, Shanghai (Telecom)     ' 'http://speedtest1.online.sh.cn'
 	speed_test '28912' 'China, Shanghai (Mobile)      ' 'http://speedtest4.sh.chinamobile.com'
 	speed_test '28912' 'Hong Kong (fdcservers)        ' 'http://lg-hkg.fdcservers.net'
 	rm -rf speedtest.py
